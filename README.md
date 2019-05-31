@@ -27,13 +27,13 @@ https://www.kaggle.com/shrutimehta/zomato-restaurants-data
 CRISP DM process is followed throughout the project. The following four business questions have been identified and answered in the code and through the blog
 
 
-# 1. What are the 10 cities with highest average aggregated feedback rating.
+1. What are the 10 cities with highest average aggregated feedback rating.
 
-# 2. What are the top 10 cities where the cost per two persons per visit is highest?
+2. What are the top 10 cities where the cost per two persons per visit is highest?
 
-# 3. Average votes per restaurant in top 10 cities
+3. Average votes per restaurant in top 10 cities
 
-# 4. Correlation between cost per two persons, Has Table booking, Has Online delivery, Is delivering now, Switch to order menu, Price range, Aggregate rating, no of votes with respect to restaurants in cities.
+4. Correlation between cost per two persons, Has Table booking, Has Online delivery, Is delivering now, Switch to order menu, Price range, Aggregate rating, no of votes with respect to restaurants in cities.
 
 
 # File Descriptions
